@@ -6,7 +6,7 @@ As my first complete robotics project, this robot was designed from the ground u
 
 The project required the integration of mechanical design, embedded systems, sensor fusion, control systems, and autonomous decision-making into a single robotic platform capable of completing all competition tasks reliably and efficiently.
 
-
+![Robot Overview](images/robot_0.png)
 
 ## Competition Tasks
 
@@ -73,8 +73,7 @@ The robot was designed to complete the following six autonomous challenges:
 
 
 ## Project Status
+
 Completed
 
-✅ Completed
-
-Developed as part of the **EN2533 – Robot Design and Competition** module and successfully demonstrated in the final competition environment.
+Developed as part of the **EN2533 – Robot Design and Competition** module and demonstrated in the final competition environment.
